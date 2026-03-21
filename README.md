@@ -1,94 +1,91 @@
----
-
-## Hello, I'm Om Kale 👋
-
-![code](https://github.com/user-attachments/assets/33f34719-d288-4ec9-b079-5eb77d7354ca)
-
-I am a builder focused on **real-world systems**, combining **backend development**, **AI**, and **automation**.
-Instead of just learning tech, I use it to **solve problems and create working products**.
-
-I specialize in **Node.js**, **Express.js**, and backend architectures, along with building **AI-powered tools** using APIs like **Gemini**.
-Currently, I am exploring **blockchain systems** and working on a **Carbon MRV (Monitoring, Reporting, Verification) system**.
-
----
-
-### 👨‍💻 My Projects:
-
-* 🔗 Peblo – AI Quiz Engine (PDF → Questions using LLM)
-* 🌱 Blockchain-based Carbon MRV System (in progress)
-* ✈️ Smart Airport Ride Pooling Backend
-* 🏗️ Construction API (real-world backend workflows)
-* 🤖 PocketFM Romantasy Scraper (automation + data extraction)
-
----
-
-### 📈 GitHub Statistics:
+<h1 align="center">Om Kale</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=20omkale&show_icons=true&count_private=true&theme=tokyonight" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Backend+Developer+%7C+AI+Builder;Building+Systems+That+Actually+Work;From+Execution+to+Scalable+Thinking" />
 </p>
 
 ---
 
-## 🛠️ Skills:
+## About Me
 
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge\&logo=express\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+I am a final year IT engineering student focused on backend development and building real-world systems.
 
----
+I prefer learning by doing — working on AI-based tools, backend architectures, and automation systems rather than just theoretical concepts.
 
-### Backend & APIs:
-
-![REST API](https://img.shields.io/badge/-REST%20API-333333?style=for-the-badge)
-![Automation](https://img.shields.io/badge/-Automation-333333?style=for-the-badge)
-![Gemini API](https://img.shields.io/badge/-Gemini%20API-4285F4?style=for-the-badge\&logo=google\&logoColor=white)
+Along with tech, I have experience in execution and sales, generating ₹3L+ revenue during college. This helps me approach problems with both a technical and practical mindset.
 
 ---
 
-### Learning & Exploring:
+## Projects
 
-![Blockchain](https://img.shields.io/badge/-Blockchain-121D33?style=for-the-badge)
-![Smart Contracts](https://img.shields.io/badge/-Smart%20Contracts-121D33?style=for-the-badge)
+* **Peblo – AI Quiz Engine**
+  Upload PDF → generate questions using LLM (Gemini API)
+  https://github.com/20omkale/peblo-quiz-engine
 
----
+* **Carbon MRV System (Blockchain)**
+  Monitoring, Reporting and Verification system for carbon data (in progress)
 
-## 📊 More Stats:
+* **Smart Airport Ride Pooling Backend**
+  Backend system for optimizing shared airport rides
+  https://github.com/20omkale/smart-airport-ride-pooling-backend
 
-<table>
-  <tr>
-    <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=20omkale&theme=tokyonight"/>
-    </td>
-    <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=20omkale&theme=tokyonight"/>
-    </td>
-  </tr>
+* **Construction API**
+  Backend APIs designed for real-world workflow use cases
+  https://github.com/20omkale/construction-api
 
-  <tr>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=20omkale&theme=tokyonight" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=20omkale&layout=compact&theme=tokyonight"/>
-    </td>
-  </tr>
-</table>
+* **PocketFM Romantasy Scraper**
+  Automation-based data extraction system
+  https://github.com/20omkale/pocketfm-romantasy-scraper
 
 ---
 
-### 🧠 Fun Fact
+## Skills
 
-> Generated ₹3L+ revenue through real execution while still in college
+**Backend Development:**
+Node.js, Express.js, REST APIs, API Design, Authentication (JWT)
+
+**Database & Data Handling:**
+MongoDB, PostgreSQL, Data Modeling, Query Optimization
+
+**AI & Automation:**
+LLM Integration (Gemini API), Prompt-based systems, Data extraction, Automation workflows
+
+**Core Engineering Skills:**
+Problem Solving, System Design Basics, Debugging, Writing scalable backend logic
+
+**Tools & Workflow:**
+Git, GitHub, Postman, VS Code
 
 ---
 
-### 🌍 Connect with me:
+## GitHub Stats
 
-* 📧 [omkalepatil20@gmail.com](mailto:omkalepatil20@gmail.com)
-* 💼 LinkedIn: (add your link)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=20omkale&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=20omkale&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=20omkale&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
+
+## Current Focus
+
+* Improving backend system design
+* Building AI-powered tools
+* Exploring blockchain-based systems
+
+---
+
+## Connect
+
+* LinkedIn: https://www.linkedin.com/in/om-kale-3b707b270
+* Email: [omkalepatil20@gmail.com](mailto:omkalepatil20@gmail.com)
+
+---
+
+## Note
+
+Consistency over motivation. I focus on building and improving every day.
