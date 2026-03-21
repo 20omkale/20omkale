@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=20omkale&label=Profile%20views&color=0e75b6&style=flat" alt="20omkale" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=20omkale" alt="20omkale" /></a> </p>
-
 - 🔭 I’m currently working on **a Blockchain-Based Carbon MRV System**
 
 - 🌱 I’m currently learning **System design, blockchain development, and scaling backend systems**
