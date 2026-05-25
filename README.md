@@ -96,7 +96,7 @@
 
 ## 🤝 Connect
 
-* 💼 LinkedIn: https://www.linkedin.com/in/om-kale-3b707b270
+* 💼 LinkedIn: https://www.linkedin.com/in/om-kale-dev
 * 📧 Email: [omkalepatil20@gmail.com](mailto:omkalepatil20@gmail.com)
 
 ---
